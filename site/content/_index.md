@@ -3,15 +3,22 @@ title: 问视间AI智效引擎
 subtitle: 一站式企业AI落地服务
 image: img/bridge-9456745_1920.jpg
 blurb:
-  heading: 为什么是企业级应用？
-  text: 企业级AI模型使数据处理完成在受控环境中，避免数据外泄风险。员工个人使用AI，数据可能被传输到外部
+  heading: AI赋能 企业无限可能
+  text: |
+    
+    以DeepSeek为智能基石
+
+    深度解锁大模型应用价值 
+
+    让企业融入AI血液
+
+    用变革引领新增长
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products: []
+  heading: 为什么企业使用AI？
+  text: "1"
+products:
+  - image: img/1743565039192.jpg
+    text: "111"
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
